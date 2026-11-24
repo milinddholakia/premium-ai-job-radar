@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Senior LLM/GenAI Engineer",
-    "company": "Adani Enterprises Limited",
-    "location": "Ahmedabad, Gujarat, India",
+    "title": "AI/ML Engineer - Python, Agentic AI, LLM, RAG",
+    "company": "Optum India",
+    "location": "Gurgaon, Haryana, India",
     "compensation": "Not disclosed",
     "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/senior-llm-genai-engineer-at-adani-enterprises-limited-4493724393",
+    "apply_link": "https://in.linkedin.com/jobs/view/ai-ml-engineer-python-agentic-ai-llm-rag-at-optum-india-4493943205",
     "posted_date": "",
-    "quality_score": 43,
+    "quality_score": 46,
     "description_snippet": ""
   },
   {
@@ -27,28 +27,64 @@
     "id": 3,
     "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
     "company": "Databricks",
-    "location": "Remote - France",
+    "location": "Remote - Sweden",
     "compensation": "Not disclosed",
     "source": "Greenhouse",
-    "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+    "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
     "posted_date": "2026-11-19",
     "quality_score": 28,
-    "description_snippet": "&lt;p&gt;&lt;strong&gt;REQ ID: FEQ227R147&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: France (Remote/Hybrid) - will require travel across Europe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;str"
+    "description_snippet": "&lt;p&gt;&lt;strong&gt;REQ ID: FEQ227R147&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: Sweden (Remote/Hybrid) - will require travel across Europe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;str"
   },
   {
     "id": 4,
-    "title": "Applied AI Engineer",
-    "company": "Trench Legal",
+    "title": "Gen Ai Tech Lead / Architect - immediate joiner",
+    "company": "Saaki Argus and Averil Consulting",
     "location": "Bengaluru, Karnataka, India",
     "compensation": "Not disclosed",
     "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/applied-ai-engineer-at-trench-legal-4493592606",
+    "apply_link": "https://in.linkedin.com/jobs/view/gen-ai-tech-lead-architect-immediate-joiner-at-saaki-argus-and-averil-consulting-4493652418",
     "posted_date": "",
-    "quality_score": 26,
+    "quality_score": 28,
     "description_snippet": ""
   },
   {
     "id": 5,
+    "title": "Generative AI Lead Data Scientist",
+    "company": "Hyster-Yale Materials Handling",
+    "location": "Pune/Pimpri-Chinchwad Area",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/generative-ai-lead-data-scientist-at-hyster-yale-materials-handling-4492613204",
+    "posted_date": "",
+    "quality_score": 28,
+    "description_snippet": ""
+  },
+  {
+    "id": 6,
+    "title": "Principal AI Architect",
+    "company": "Execo",
+    "location": "Noida, Uttar Pradesh, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/principal-ai-architect-at-execo-4494316502",
+    "posted_date": "",
+    "quality_score": 25,
+    "description_snippet": ""
+  },
+  {
+    "id": 7,
+    "title": "Senior AI/ML Engineer,",
+    "company": "Optum",
+    "location": "Bengaluru, Karnataka, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/senior-ai-ml-engineer-at-optum-4492691561",
+    "posted_date": "",
+    "quality_score": 24,
+    "description_snippet": ""
+  },
+  {
+    "id": 8,
     "title": "Staff Product Manager, ML Foundations and GenAI",
     "company": "Stripe",
     "location": "Seattle, San Francisco, New York, US - Remote",
@@ -60,7 +96,7 @@
     "description_snippet": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Milli"
   },
   {
-    "id": 6,
+    "id": 9,
     "title": "Senior Software Engineer, backend (Online Storage)",
     "company": "Affirm",
     "location": "Remote Canada",
@@ -72,7 +108,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 7,
+    "id": 10,
     "title": "Applied AI Engineer",
     "company": "Umanist NA",
     "location": "Pune City, Maharashtra, India",
@@ -84,7 +120,7 @@
     "description_snippet": ""
   },
   {
-    "id": 8,
+    "id": 11,
     "title": "Staff+ Software Engineer, Inference Velocity",
     "company": "Anthropic",
     "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
@@ -96,7 +132,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems"
   },
   {
-    "id": 9,
+    "id": 12,
     "title": "Principal Data Scientist, Detection",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -108,7 +144,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 10,
+    "id": 13,
     "title": "Senior Machine Learning Engineer",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -120,19 +156,19 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 11,
+    "id": 14,
     "title": "Staff Machine Learning Engineer",
     "company": "Twilio",
     "location": "Remote - Ontario, Canada (DNU)",
     "compensation": "$198,560 - $248,200",
     "source": "Greenhouse",
-    "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
-    "posted_date": "2026-11-20",
+    "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
+    "posted_date": "2026-11-23",
     "quality_score": 19,
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we\u2019re shaping the future of communications, all from the comfort of "
   },
   {
-    "id": 12,
+    "id": 15,
     "title": "Senior Machine Learning Engineer (Fraud)",
     "company": "Affirm",
     "location": "Remote Canada",
@@ -144,31 +180,19 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 13,
-    "title": "LLM Developer",
-    "company": "Confidential",
-    "location": "Bengaluru, Karnataka, India",
-    "compensation": "Not disclosed",
-    "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/llm-developer-at-confidential-4493632025",
-    "posted_date": "",
-    "quality_score": 18,
-    "description_snippet": ""
-  },
-  {
-    "id": 14,
+    "id": 16,
     "title": "Specialist Solutions Architect - AI/ML",
     "company": "Databricks",
-    "location": "Mumbai, India",
+    "location": "Bengaluru, India",
     "compensation": "Not disclosed",
     "source": "Greenhouse",
-    "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
+    "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
     "posted_date": "2026-11-19",
     "quality_score": 16,
     "description_snippet": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;FEQ327R299&lt;/p&gt; &lt;p&gt;As an AI/ML Specialist Solutions Architect (SSA), you will be the trusted technical ML &amp;amp; AI expert to both Databricks cu"
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "Staff Software Engineer, GTM AI Engineering ",
     "company": "Anthropic",
     "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
@@ -180,7 +204,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems"
   },
   {
-    "id": 16,
+    "id": 18,
     "title": "Senior Oracle Security and AI Engineer",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -192,7 +216,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 17,
+    "id": 19,
     "title": "Staff Machine Learning Engineer (L4)",
     "company": "Twilio",
     "location": "Remote - India",
@@ -204,7 +228,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we\u2019re shaping the future of communications, all from the comfort of "
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "Senior Data Scientist",
     "company": "Coinbase",
     "location": "Remote - Singapore",
@@ -216,7 +240,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 19,
+    "id": 21,
     "title": "Senior Data Scientist, Product ",
     "company": "Coinbase",
     "location": "Remote - UK",
@@ -228,7 +252,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 20,
+    "id": 22,
     "title": "Senior Machine Learning Engineer",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -240,7 +264,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 21,
+    "id": 23,
     "title": "Senior Machine Learning Engineer, CX ",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -252,7 +276,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 22,
+    "id": 24,
     "title": "Senior Machine Learning Engineer, CX Intelligence ",
     "company": "Coinbase",
     "location": "Remote - Brazil",
@@ -264,7 +288,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 23,
+    "id": 25,
     "title": "Senior Machine Learning Platform Engineer - Identity",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -276,7 +300,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 24,
+    "id": 26,
     "title": "Staff Applied Data Scientist, Pricing",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -288,7 +312,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 25,
+    "id": 27,
     "title": "Staff Machine Learning Engineer",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -300,7 +324,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 26,
+    "id": 28,
     "title": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -312,7 +336,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 27,
+    "id": 29,
     "title": "Staff Machine Learning Engineer(Platform - Identity)",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -324,7 +348,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 28,
+    "id": 30,
     "title": "AI/ML Engineer",
     "company": "Optum India",
     "location": "Gurgaon, Haryana, India",
@@ -336,43 +360,31 @@
     "description_snippet": ""
   },
   {
-    "id": 29,
-    "title": "AI/ML Engineer",
-    "company": "CNH",
-    "location": "Pune Division, Maharashtra, India",
+    "id": 31,
+    "title": "Sr Machine Learning Engineer",
+    "company": "PayPal",
+    "location": "Bengaluru, Karnataka, India",
     "compensation": "Not disclosed",
     "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-cnh-4493614854",
+    "apply_link": "https://in.linkedin.com/jobs/view/sr-machine-learning-engineer-at-paypal-4494117499",
     "posted_date": "",
     "quality_score": 16,
     "description_snippet": ""
   },
   {
-    "id": 30,
-    "title": "Software Engineer (AI with Gen AI)",
-    "company": "Commvault",
-    "location": "Pune Division, Maharashtra, India",
-    "compensation": "Not disclosed",
-    "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/software-engineer-ai-with-gen-ai-at-commvault-4493747966",
-    "posted_date": "",
-    "quality_score": 15,
-    "description_snippet": ""
-  },
-  {
-    "id": 31,
-    "title": "RAG Engineer",
-    "company": "Aventra.AI",
-    "location": "Pune District, Maharashtra, India",
-    "compensation": "Not disclosed",
-    "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/ai-ml-computational-engineer-generative-ai-2-4-yrs-at-archer-4493716190",
-    "posted_date": "",
-    "quality_score": 15,
-    "description_snippet": ""
-  },
-  {
     "id": 32,
+    "title": "Lead Machine Learning Engineer",
+    "company": "Sequoia",
+    "location": "Bangalore Urban, Karnataka, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/lead-machine-learning-engineer-at-sequoia-4494313598",
+    "posted_date": "",
+    "quality_score": 16,
+    "description_snippet": ""
+  },
+  {
+    "id": 33,
     "title": "Machine Learning Engineer 2",
     "company": "Twilio",
     "location": "Remote - US",
@@ -384,7 +396,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we\u2019re shaping the future of communications, all from the comfort of "
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "Machine Learning Engineer II (ROA + LTV ML)",
     "company": "Affirm",
     "location": "Remote Canada",
@@ -396,19 +408,19 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 34,
+    "id": 35,
     "title": "Manager, Machine Learning Engineering",
     "company": "Affirm",
-    "location": "Remote Canada",
-    "compensation": "$181,000 - $241,000",
+    "location": "Remote US",
+    "compensation": "$230,000 - $290,000",
     "source": "Greenhouse",
-    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8205744003",
+    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8205742003",
     "posted_date": "2026-11-18",
     "quality_score": 14,
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 35,
+    "id": 36,
     "title": "Quantitative Analytics Manager, Affirm Bank Machine Learning & Model Governance",
     "company": "Affirm",
     "location": "Remote US",
@@ -420,7 +432,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 36,
+    "id": 37,
     "title": "Sr. Solutions Architect - Retail, Travel & Hospitality",
     "company": "Databricks",
     "location": "Atlanta, Georgia; Chicago, Illinois; Dallas, Texas; Phoenix, Arizona; Portland, Oregon; Remote - California; Remote - North Carolina; Seattle, Washington",
@@ -432,7 +444,7 @@
     "description_snippet": "&lt;p&gt;P-256&lt;/p&gt; &lt;p&gt;We are looking for experienced pre-sales professionals with a proven track record of helping large enterprises become more data-driven. Working with the Account Execu"
   },
   {
-    "id": 37,
+    "id": 38,
     "title": "Enterprise GTM Lead, Inference and Agentic AI",
     "company": "Paytm",
     "location": "Noida, Uttar Pradesh",
@@ -444,19 +456,55 @@
     "description_snippet": "\n\nAbout Paytm\n\nPaytm is a pioneer of digital payments in India, serving over 450 million consumers and 45 million merchants across payments, financial services, and commerce. Over the years, Paytm has"
   },
   {
-    "id": 38,
-    "title": "Lead AI Engineer",
-    "company": "Qualys",
-    "location": "Pune Division, Maharashtra, India",
+    "id": 39,
+    "title": "Sr AI Engineer",
+    "company": "Regeneron",
+    "location": "Greater Hyderabad Area",
     "compensation": "Not disclosed",
     "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/lead-ai-engineer-at-qualys-4449747860",
+    "apply_link": "https://in.linkedin.com/jobs/view/sr-ai-engineer-at-regeneron-4485471676",
     "posted_date": "",
     "quality_score": 13,
     "description_snippet": ""
   },
   {
-    "id": 39,
+    "id": 40,
+    "title": "Senior AI Engineer",
+    "company": "Veersa Technologies",
+    "location": "Noida, Uttar Pradesh, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/senior-ai-engineer-at-veersa-technologies-4493718322",
+    "posted_date": "",
+    "quality_score": 13,
+    "description_snippet": ""
+  },
+  {
+    "id": 41,
+    "title": "Sr Machine Learning Engineer, Fraud (Crypto &amp; Debit Card)",
+    "company": "PayPal",
+    "location": "Chennai, Tamil Nadu, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/sr-machine-learning-engineer-fraud-crypto-debit-card-at-paypal-4493681365",
+    "posted_date": "",
+    "quality_score": 13,
+    "description_snippet": ""
+  },
+  {
+    "id": 42,
+    "title": "Senior AI ML Engineer",
+    "company": "enGen Global",
+    "location": "Chennai, Tamil Nadu, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/senior-ai-ml-engineer-at-engen-global-4493741684",
+    "posted_date": "",
+    "quality_score": 13,
+    "description_snippet": ""
+  },
+  {
+    "id": 43,
     "title": "Research Engineer, Machine Learning (RL Velocity)",
     "company": "Anthropic",
     "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
@@ -468,7 +516,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems"
   },
   {
-    "id": 40,
+    "id": 44,
     "title": "Member of Technical Staff - Workers AI Applied Research",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -480,7 +528,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 41,
+    "id": 45,
     "title": "Principal Campaign Manager",
     "company": "Cloudflare",
     "location": "Distributed; Hybrid",
@@ -492,7 +540,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 42,
+    "id": 46,
     "title": "Senior Customer Engineer AI/ Start Up's",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -504,7 +552,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 43,
+    "id": 47,
     "title": "Senior Customer Engineer, Enterprise AI  - Bay Area",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -516,7 +564,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 44,
+    "id": 48,
     "title": "Senior Digital Native  Account Executive, Spain",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -528,7 +576,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 45,
+    "id": 49,
     "title": "Senior Named Account Executive (AI & Digital Natives)",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -540,7 +588,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 46,
+    "id": 50,
     "title": "Machine Learning Engineer (L3)",
     "company": "Twilio",
     "location": "Remote - India",
@@ -552,31 +600,31 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we\u2019re shaping the future of communications, all from the comfort of "
   },
   {
-    "id": 47,
+    "id": 51,
     "title": "Manager, Machine Learning Engineering, Checkout",
     "company": "Affirm",
-    "location": "Remote Spain",
+    "location": "Remote UK",
     "compensation": "Not disclosed",
     "source": "Greenhouse",
-    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
+    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
     "posted_date": "2026-10-30",
     "quality_score": 11,
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 48,
+    "id": 52,
     "title": "Senior Software Engineer, Backend (AI Platform)",
     "company": "Affirm",
-    "location": "Remote Canada",
-    "compensation": "$153,000 - $213,000",
+    "location": "Remote US",
+    "compensation": "$173,000-233,000",
     "source": "Greenhouse",
-    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8040388003",
+    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
     "posted_date": "2026-10-30",
     "quality_score": 11,
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 49,
+    "id": 53,
     "title": "Senior Software Engineer, Backend (ML Feature Platform)",
     "company": "Affirm",
     "location": "Remote US",
@@ -588,19 +636,19 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 50,
+    "id": 54,
     "title": "Senior Software Engineer, Backend (ML Training and Serving) ",
     "company": "Affirm",
-    "location": "Remote US",
-    "compensation": "$195,000 - $225,000",
+    "location": "Remote Canada",
+    "compensation": "$153,000 - $213,000",
     "source": "Greenhouse",
-    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8201463003",
+    "apply_link": "https://job-boards.greenhouse.io/affirm/jobs/8201465003",
     "posted_date": "2026-11-12",
     "quality_score": 11,
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 51,
+    "id": 55,
     "title": "Staff Security Engineer, Enterprise AI",
     "company": "Affirm",
     "location": "Remote US",
@@ -612,7 +660,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no t"
   },
   {
-    "id": 52,
+    "id": 56,
     "title": "Machine Learning Engineer",
     "company": "Coinbase",
     "location": "Remote - India",
@@ -624,7 +672,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 53,
+    "id": 57,
     "title": "Machine Learning Engineer, CX Intelligence",
     "company": "Coinbase",
     "location": "Remote - Brazil",
@@ -636,7 +684,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 54,
+    "id": 58,
     "title": "Staff Product Designer, Onchain Yield & Investments ",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -648,7 +696,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 55,
+    "id": 59,
     "title": "AI Transformation Lead, Marketing",
     "company": "Stripe",
     "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
@@ -660,7 +708,7 @@
     "description_snippet": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies \u2014 from the world&#39;s largest enterprise"
   },
   {
-    "id": 56,
+    "id": 60,
     "title": "Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing",
     "company": "Stripe",
     "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
@@ -672,7 +720,7 @@
     "description_snippet": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Mill"
   },
   {
-    "id": 57,
+    "id": 61,
     "title": "Policy Lead, AI Infrastructure",
     "company": "Stripe",
     "location": "US-Remote",
@@ -684,7 +732,7 @@
     "description_snippet": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financ"
   },
   {
-    "id": 58,
+    "id": 62,
     "title": "Staff Product Manager, Sail Core",
     "company": "Stripe",
     "location": "New York, US - Remote (East Coast), Toronto",
@@ -696,7 +744,7 @@
     "description_snippet": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world&#39;s largest enterprises "
   },
   {
-    "id": 59,
+    "id": 63,
     "title": "Manager/Sr. Manager, AI Forward Deployed Engineering",
     "company": "Databricks",
     "location": "Bengaluru, India",
@@ -708,7 +756,7 @@
     "description_snippet": "&lt;h3&gt;&lt;strong&gt;CSQ427R238&lt;/strong&gt;&lt;/h3&gt; &lt;h3&gt;&lt;strong&gt;Sr. Manager, AI Forward Deployed Engineering (FDE)&lt;/strong&gt;&lt;/h3&gt; &lt;h4&gt;&lt;strong&gt;Mission&lt;/st"
   },
   {
-    "id": 60,
+    "id": 64,
     "title": "Senior ML & AI Technical Solutions Engineer ",
     "company": "Databricks",
     "location": "Bengaluru, India",
@@ -720,7 +768,7 @@
     "description_snippet": "&lt;p&gt;P-1377&lt;/p&gt; &lt;h4&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;As a Senior ML and AI Technical Solutions Engineer, you play a critical role by helping customers debug and"
   },
   {
-    "id": 61,
+    "id": 65,
     "title": "Senior Software Engineer - Data + AI Observability",
     "company": "Databricks",
     "location": "Bengaluru, India",
@@ -732,19 +780,19 @@
     "description_snippet": "&lt;p&gt;P-1385&lt;/p&gt; &lt;p&gt;Companies are investing billions of dollars into developing and deploying AI and the data platforms that enable it. But do they know what is happening?&amp;nbsp;&lt;"
   },
   {
-    "id": 62,
+    "id": 66,
     "title": "Solutions Architect - Communications, Media, Entertainment and Games",
     "company": "Databricks",
-    "location": "Remote - Colorado",
+    "location": "Remote - New York",
     "compensation": "Not disclosed",
     "source": "Greenhouse",
-    "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569633002",
+    "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
     "posted_date": "2026-11-19",
     "quality_score": 8,
-    "description_snippet": "&lt;p data-renderer-start-pos=&quot;1648&quot;&gt;FEQ327R208&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Location Requirement:&lt;/strong&gt; This is a remote"
+    "description_snippet": "&lt;p data-renderer-start-pos=&quot;1648&quot;&gt;FEQ227R273&lt;br&gt;&lt;br&gt;While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considere"
   },
   {
-    "id": 63,
+    "id": 67,
     "title": "Solutions Architect - Retail",
     "company": "Databricks",
     "location": "Chicago, Illinois; Florida; Northeast - United States; Remote - Georgia; Remote - Massachusetts; Remote - New York; Southeast - United States; Tennessee",
@@ -756,7 +804,7 @@
     "description_snippet": "&lt;h3&gt;&lt;strong&gt;Solutions Architect (L5)&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;FEQ128R146&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;"
   },
   {
-    "id": 64,
+    "id": 68,
     "title": "Solutions Architect - Retail, Consumer Goods, Travel & Hospitality ",
     "company": "Databricks",
     "location": "Central - United States; Northeast - United States; Remote - New York; Southeast - United States",
@@ -768,7 +816,7 @@
     "description_snippet": "&lt;h3&gt;&lt;strong&gt;FEQ327R526&lt;/strong&gt;&lt;/h3&gt; &lt;h3&gt;&lt;strong&gt;Solutions Architect (L5)&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt; &lt;p&g"
   },
   {
-    "id": 65,
+    "id": 69,
     "title": "Solutions Architect - Retail, Travel & Hospitality ",
     "company": "Databricks",
     "location": "Atlanta, Georgia; Central - United States; Remote - North Carolina; West Coast - United States",
@@ -780,7 +828,7 @@
     "description_snippet": "&lt;p&gt;P-256&lt;/p&gt; &lt;p&gt;We are looking for experienced pre-sales professionals who have a successful track record helping large enterprises become more data-driven. Working with the Account "
   },
   {
-    "id": 66,
+    "id": 70,
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "company": "Databricks",
     "location": "Remote - California",
@@ -792,7 +840,7 @@
     "description_snippet": "&lt;p&gt;CSQ427R168&lt;/p&gt; &lt;p&gt;As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks"
   },
   {
-    "id": 67,
+    "id": 71,
     "title": "Sr. Software Engineer- Databricks AI",
     "company": "Databricks",
     "location": "Bengaluru, India",
@@ -804,7 +852,7 @@
     "description_snippet": "&lt;p&gt;At Databricks, we are passionate about helping enterprises that build ML models and AI agents deliver high-quality AI to production fast. Founded by engineers, and customer obsessed, we leap "
   },
   {
-    "id": 68,
+    "id": 72,
     "title": "Senior Product Manager, Email Security",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -816,7 +864,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 69,
+    "id": 73,
     "title": "Senior Software Engineer, AI & Infrastructure Planning",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -828,7 +876,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 70,
+    "id": 74,
     "title": "Senior Engineering Manager, AI Foundations",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -840,7 +888,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 71,
+    "id": 75,
     "title": "Senior Onchain Investigator",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -852,7 +900,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 72,
+    "id": 76,
     "title": "Senior Software Engineer, Backend (Retail Spot)",
     "company": "Coinbase",
     "location": "Remote - Canada",
@@ -864,7 +912,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 73,
+    "id": 77,
     "title": "Senior Software Engineer- Blockchain Network",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -876,7 +924,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 74,
+    "id": 78,
     "title": "Staff Software Engineer, AI Developer Productivity",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -888,7 +936,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 75,
+    "id": 79,
     "title": "Staff Software Engineer, Core AI Infrastructure",
     "company": "Coinbase",
     "location": "Remote - USA",
@@ -900,7 +948,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-oncha"
   },
   {
-    "id": 76,
+    "id": 80,
     "title": "Team Leader-LRM- Mumbai",
     "company": "Paytm",
     "location": "Mumbai, Maharashtra",
@@ -912,7 +960,43 @@
     "description_snippet": "About Us:\nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small busines"
   },
   {
-    "id": 77,
+    "id": 81,
+    "title": "Agentic AI Engineer",
+    "company": "IQVIA",
+    "location": "Kochi, Kerala, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/agentic-ai-engineer-at-iqvia-4494004770",
+    "posted_date": "",
+    "quality_score": 8,
+    "description_snippet": ""
+  },
+  {
+    "id": 82,
+    "title": "Data Scientist",
+    "company": "bp",
+    "location": "Pune Division, Maharashtra, India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/data-scientist-at-bp-4492603606",
+    "posted_date": "",
+    "quality_score": 8,
+    "description_snippet": ""
+  },
+  {
+    "id": 83,
+    "title": "AI Lead Engineer",
+    "company": "Ryan Specialty",
+    "location": "Mumbai Metropolitan Region",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/ai-lead-engineer-at-ryan-specialty-4492698687",
+    "posted_date": "",
+    "quality_score": 8,
+    "description_snippet": ""
+  },
+  {
+    "id": 84,
     "title": "AI Lead Developer",
     "company": "Continental Industry",
     "location": "Bengaluru, Karnataka, India",
@@ -924,19 +1008,7 @@
     "description_snippet": ""
   },
   {
-    "id": 78,
-    "title": "AI Engineer [T500-27958]",
-    "company": "Talent500",
-    "location": "Hyderabad, Telangana, India",
-    "compensation": "Not disclosed",
-    "source": "LinkedIn",
-    "apply_link": "https://in.linkedin.com/jobs/view/ai-engineer-t500-27958-at-talent500-4446198884",
-    "posted_date": "",
-    "quality_score": 8,
-    "description_snippet": ""
-  },
-  {
-    "id": 79,
+    "id": 85,
     "title": "AI Security Research & Red Team Engineer",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -948,7 +1020,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 80,
+    "id": 86,
     "title": "Customer Engineer AI/ Start Up's",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -960,7 +1032,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 81,
+    "id": 87,
     "title": "Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -972,7 +1044,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 82,
+    "id": 88,
     "title": "Enterprise Account Executive, Thailand",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -984,7 +1056,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 83,
+    "id": 89,
     "title": "Named Account Executive, Thailand",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -996,7 +1068,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 84,
+    "id": 90,
     "title": "Supply Chain Program Manager - Rack Integration",
     "company": "Cloudflare",
     "location": "Hybrid",
@@ -1008,7 +1080,7 @@
     "description_snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt; &lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest "
   },
   {
-    "id": 85,
+    "id": 91,
     "title": "Senior Software Engineer, AI Builder Experience (ABX)",
     "company": "MongoDB",
     "location": "Gurugram",
@@ -1020,7 +1092,7 @@
     "description_snippet": "&lt;p&gt;AI agents are transforming the way developers interact with software - and databases are no exception. We&#39;re seeking a Senior Software Engineer to join our AI Interfaces team within AI Bu"
   },
   {
-    "id": 86,
+    "id": 92,
     "title": "Senior Software Engineer, AI Framework Integrations",
     "company": "MongoDB",
     "location": "Gurugram",
@@ -1032,7 +1104,7 @@
     "description_snippet": "&lt;p&gt;AI frameworks like LangChain, LlamaIndex, and n8n are quickly becoming the default way developers build with AI \u2014 and MongoDB wants to be the data platform that shows up everywhere they build"
   },
   {
-    "id": 87,
+    "id": 93,
     "title": "Team Leader-LRM- Chennai",
     "company": "Paytm",
     "location": "Chennai, Tamil Nadu",
@@ -1044,13 +1116,25 @@
     "description_snippet": "About Us:\nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small busines"
   },
   {
-    "id": 88,
+    "id": 94,
     "title": "Senior Engineer AI",
     "company": "Litmus7",
     "location": "Kochi, Kerala, India",
     "compensation": "Not disclosed",
     "source": "LinkedIn",
     "apply_link": "https://in.linkedin.com/jobs/view/senior-engineer-ai-at-litmus7-4338772684",
+    "posted_date": "",
+    "quality_score": 5,
+    "description_snippet": ""
+  },
+  {
+    "id": 95,
+    "title": "AI Solutions Architect",
+    "company": "Cactus Communications",
+    "location": "India",
+    "compensation": "Not disclosed",
+    "source": "LinkedIn",
+    "apply_link": "https://in.linkedin.com/jobs/view/ai-solutions-architect-at-cactus-communications-4456881947",
     "posted_date": "",
     "quality_score": 5,
     "description_snippet": ""
