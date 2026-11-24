@@ -77,9 +77,19 @@ COMPANY_BLOCKLIST_TOKENS = [
 
 # Titles to reject
 TITLE_BLOCKLIST_TOKENS = [
+    # Junior / Entry level
     "intern", "trainee", "fresher", "junior", "associate",
     "entry level", "entry-level", "graduate", "co-op", "apprentice",
     "support", "analyst i ", "analyst i,", "level 1", "l1 ",
+    # Executive / 10+ YOE Leadership (exceeds 7-9 YOE target)
+    "director", "vice president", "vp ", "head of ", "chief ",
+    "managing director", "general manager",
+    # Explicit 10+ YOE title markers
+    "10+ yrs", "11+ yrs", "12+ yrs", "13+ yrs", "14+ yrs", "15+ yrs",
+    "10+ years", "12+ years", "15+ years", "10-15 yrs", "12-15 yrs",
+    "8-12 yrs", "10-12 yrs", "10+ yoe", "12+ yoe",
+    # Explicit junior title markers
+    "0-2 yrs", "1-3 yrs", "2-4 yrs", "3-5 yrs", "2-5 yrs",
 ]
 
 # ---------------------------------------------------------------------------
@@ -190,9 +200,8 @@ class JobListing:
             if kw in t:
                 score += 8
 
-        # --- Seniority ---
-        senior = ["senior", "staff", "principal", "lead", "architect",
-                   "sr.", "sr ", "head", "director", "distinguished"]
+        # --- Seniority (7-9 YOE target) ---
+        senior = ["senior", "staff", "principal", "lead", "architect", "sr.", "sr "]
         for kw in senior:
             if kw in t:
                 score += 5
@@ -282,6 +291,50 @@ def is_target_location(loc: str) -> bool:
     return any(tok in l for tok in TARGET_LOCATIONS_LOOSE)
 
 
+def is_experience_aligned(title: str, text: str = "") -> bool:
+    """
+    Candidate target profile: ~7 YOE (Maximum 7-9 years).
+    Strictly filters out:
+      - 10+ years of experience (10+, 11+, 12+, 13+, 14+, 15+, etc.)
+      - Ranges with minimum >= 10 (e.g. 10-12, 10-15, 12-15)
+      - Ranges where upper limit >= 12 (e.g. 8-12 yrs, 9-14 yrs)
+      - Explicit junior ranges (0-2, 1-3, 2-4, 3-5 yrs)
+      - Executive leadership titles (Director, VP, Head of, Chief)
+    """
+    full_text = f"{title} {text}".lower()
+
+    # 1. Executive / VP / Director titles (typically 12-15+ YOE)
+    if re.search(r'\b(director|senior director|vice president|vp|head of|chief|managing director|general manager)\b', title, re.I):
+        return False
+
+    # 2. Check for explicit 10+ years mentions (10+, 11+, 12+, 13+, 14+, 15+, 20+)
+    if re.search(r'\b(?:1[0-9]|20)\s*\+?\s*(?:plus|\+)\s*(?:years?|yrs?|yoe)\b', full_text, re.I):
+        return False
+    if re.search(r'\b(?:1[0-9]|20)\+\s*(?:years?|yrs?|yoe)?\b', title, re.I):
+        return False
+
+    # 3. Check for ranges like: 10-15 yrs, 12-16 years, 8-12 yrs, 9-13 yrs
+    range_matches = re.findall(r'\b(\d+)\s*(?:-|–|\sto\s)\s*(\d+)\s*(?:years?|yrs?|yoe)\b', full_text, re.I)
+    for min_exp_str, max_exp_str in range_matches:
+        try:
+            min_exp = int(min_exp_str)
+            max_exp = int(max_exp_str)
+            if min_exp >= 10:
+                return False
+            if max_exp >= 12:
+                return False
+            if max_exp <= 4:
+                return False
+        except ValueError:
+            pass
+
+    # 4. Phrases like "at least 10 years", "minimum 10 years", "10 or more years"
+    if re.search(r'\b(?:at\s*least|minimum|req(?:uire)?d?|more\s*than)\s*(?:of\s*)?(?:1[0-9]|20)\s*(?:years?|yrs?|yoe)\b', full_text, re.I):
+        return False
+
+    return True
+
+
 _COMP_PATTERNS = [
     re.compile(r"₹\s*[\d,.]+\s*(?:LPA|lpa|L|lakh|lakhs?)", re.I),
     re.compile(r"(?:INR|Rs\.?)\s*[\d,.]+\s*(?:LPA|lpa|L|lakh|lakhs?)", re.I),
@@ -333,6 +386,8 @@ def search_greenhouse(display_name: str, board_slug: str) -> list[JobListing]:
 
         content_html = job.get("content", "")
         content_text = _html_to_text(content_html)
+        if not is_experience_aligned(title, content_text):
+            continue
         comp = extract_compensation(content_text)
 
         apply_url = job.get("absolute_url", "")
@@ -383,6 +438,8 @@ def search_lever(display_name: str, lever_slug: str) -> list[JobListing]:
         # Gather text to search for compensation
         desc = posting.get("descriptionPlain", "")
         addl = posting.get("additionalPlain", "")
+        if not is_experience_aligned(title, f"{desc} {addl}"):
+            continue
         lists_text = " ".join(
             lst.get("content", "") for lst in posting.get("lists", [])
         )
@@ -471,6 +528,8 @@ def search_linkedin(role: str, geo: str = "India") -> list[JobListing]:
             continue
         if not is_target_location(loc):
             continue
+        if not is_experience_aligned(t, card):
+            continue
 
         listing = JobListing(
             title=t,
@@ -516,7 +575,7 @@ def generate_report(jobs: list[JobListing], scan_time: datetime) -> str:
     a(f"**Total Listings:** {len(jobs)}  ")
     a("**Target Roles:** GenAI Developer · Applied AI Engineer · RAG Architect  ")
     a("**Locations:** Mumbai · Bengaluru · Remote (India)  ")
-    a("**Experience:** 7 years · ₹50 LPA+ target  ")
+    a("**Experience:** 7–9 years max (Strictly excludes 10+ YOE) · ₹50 LPA+ target  ")
     a("")
     a("---")
     a("")

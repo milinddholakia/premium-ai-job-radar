@@ -80,7 +80,7 @@
             <h1 class="font-extrabold text-base sm:text-lg tracking-tight text-white">Apex GenAI Job Radar</h1>
             <span class="text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Live Pages</span>
           </div>
-          <p class="text-xs text-slate-400 hidden sm:block">Senior, Lead & Architect Roles · 7+ YOE · Target ₹50 LPA+</p>
+          <p class="text-xs text-slate-400 hidden sm:block">Senior, Lead & Architect Roles · 7–9 YOE (Max 9 YOE · No 10+ YOE) · ₹50 LPA+ Target</p>
         </div>
       </div>
 
@@ -303,8 +303,30 @@
       }
     }
 
+    function isExpTarget(job) {
+      const title = (job.title || '').toLowerCase();
+      const snippet = (job.description_snippet || '').toLowerCase();
+      const full = `${title} ${snippet}`;
+
+      // 1. Executive / Director / VP
+      if (/\b(director|vp|vice president|head of|chief|managing director)\b/i.test(title)) return false;
+
+      // 2. Explicit 10+ YOE
+      if (/\b(?:1[0-9]|20)\s*(?:\+|plus)\s*(?:years?|yrs?|yoe)\b/i.test(full)) return false;
+      if (/\b(?:1[0-9]|20)\+\s*(?:years?|yrs?|yoe)?\b/i.test(title)) return false;
+
+      // 3. Ranges: reject min >= 10, max >= 12, max <= 4
+      const rangeM = full.match(/\b(\d+)\s*(?:-|–|\sto\s)\s*(\d+)\s*(?:years?|yrs?|yoe)\b/i);
+      if (rangeM) {
+        const minE = parseInt(rangeM[1], 10);
+        const maxE = parseInt(rangeM[2], 10);
+        if (minE >= 10 || maxE >= 12 || maxE <= 4) return false;
+      }
+      return true;
+    }
+
     function updateStats() {
-      const visible = allJobs.filter(j => !hiddenJobIds.has(j.id));
+      const visible = allJobs.filter(j => !hiddenJobIds.has(j.id) && isExpTarget(j));
       document.getElementById('stat-total').innerText = visible.length;
 
       // India Count
@@ -406,6 +428,7 @@
       const container = document.getElementById('jobs-container');
 
       const filtered = allJobs.filter(job => {
+        if (!isExpTarget(job)) return false;
         if (hiddenJobIds.has(job.id)) return false;
         if (onlySaved && !savedJobIds.has(job.id)) return false;
 
